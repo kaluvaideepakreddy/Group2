@@ -1,0 +1,3 @@
+we need to create the hello world spring boot application which will be connected to the database in the local envirornment.Rest points need to be created,
+which will take the https requests created by the postman and do the appropriate action accourding to the given input.The entities in the database should be 
+a serialno and String saying "hello World". A repository need to be created with the group no as title and then push our code into git.
