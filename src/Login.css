@@ -1,0 +1,71 @@
+.MaterialForm{
+    text-align: center;
+    margin-top: 100px;
+}
+.label{
+    text-align: center;
+    height: 5vh;
+    display: flow;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+    margin-left: 5px;
+}
+
+.form {
+    text-align: center;
+
+    align-items: center;
+    background-color: aliceblue;
+
+}
+
+.Heading{
+    text-align: center;
+    align-items: center;
+}
+.input{
+    font-size: larger;
+    padding: 5px;
+    margin: 2px;
+    align-items: center;
+
+
+}
+.btn{
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    font-size: larger;
+    display: block;
+    padding: 5px;
+    margin: 10px auto;
+}
+.image{
+    display: flow;
+}
+.messages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.Screen{
+    padding-left: 50px;
+}
+
+.moviebtn{
+    color: white;
+    background-color: green;
+    border-radius: 5px;
+    font-size: larger;
+    padding: 5px;
+    margin-left: 50px;
+
+}
+
+.h1{
+    text-align: center;
+    margin-bottom: 10px;
+}
