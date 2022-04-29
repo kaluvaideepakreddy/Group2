@@ -1,0 +1,25 @@
+:root {
+    --primary: green;
+}
+.btn {
+    font-family: sans-serif;
+    font-weight: 400;
+    border-radius: 10px;
+    cursor:pointer;
+   transition:transform 0.3s ease;
+   
+}
+.btn:hover{
+    transform : translateY(-3px)
+}
+
+.btn--primary--solid {
+    background-color: var(--primary);
+    color:var(--white);
+    border:none;
+
+}
+.btn--medium {
+    padding: 10px 20px;
+    font-size: 18px;
+}
